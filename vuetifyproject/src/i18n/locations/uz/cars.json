@@ -1,0 +1,21 @@
+{
+    "title": "Avtomobillar",
+    "lb-page-size": "Sahifalash",
+    "lb-search": "Qidirish",
+    "create": {
+        "title": "Avtomobil qo'shish",
+        "btn-title": "Qo'shish",
+        "lb-company": "Kompaniya",
+        "lb-model": "Model",
+        "lb-price": "Narxi",
+        "lb-color": "Rangi",
+        "create-btn": "Qo'shish"
+    },
+    "table": {
+        "id": "Id",
+        "company": "Kompaniya",
+        "model": "Model",
+        "price": "Narxi",
+        "delete": "Olib tashlash"
+    }
+}

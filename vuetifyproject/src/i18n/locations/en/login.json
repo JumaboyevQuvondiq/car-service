@@ -1,0 +1,8 @@
+{
+    "title": "Login",
+    "email-text": "Email",
+    "password-text": "Password",
+    "submit-btn": "Sign in",
+    "label-have-account": "Don't have an account?",
+    "register-btn": "Register"
+}

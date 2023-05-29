@@ -1,0 +1,21 @@
+{
+    "title": "Cars",
+    "lb-page-size": "Page Size",
+    "lb-search": "Search",
+    "create": {
+        "title": "Create Car",
+        "btn-title": "Add",
+        "lb-company": "Company",
+        "lb-model": "Model",
+        "lb-price": "Price",
+        "lb-color": "Color",
+        "create-btn": "Create"
+    },
+    "table": {
+        "id": "Id",
+        "company": "Company",
+        "model": "Model",
+        "price": "Price",
+        "delete": "Delete"
+    }
+}

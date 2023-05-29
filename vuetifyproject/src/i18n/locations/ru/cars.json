@@ -1,0 +1,21 @@
+{
+    "title": "Автомобилы",
+    "lb-page-size": "Размер стр",
+    "lb-search": "Поиск",
+    "create": {
+        "title": "Создать автомобиль",
+        "btn-title": "Добавить",
+        "lb-company": "Компания",
+        "lb-model": "Модель",
+        "lb-price": "Цена",
+        "lb-color": "Цвет",
+        "create-btn": "Создать"
+    },
+    "table": {
+        "id": "№",
+        "company": "Компания",
+        "model": "Модель",
+        "price": "Цена",
+        "delete": "Удалить"
+    }
+}

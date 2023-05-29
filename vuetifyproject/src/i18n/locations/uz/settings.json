@@ -1,0 +1,9 @@
+{
+    "title": "Sozlamalar",
+    "lb-name": "Ism familiya",
+    "lb-password":"Eski Parol",
+    "pass-placeholder": "Parolni kiriting",
+    "lb-new-password":"Yangi Parol",
+    "new-pass-placeholder": "Yangi parolni kiriting",
+    "submit-btn": "Saqlash" 
+}

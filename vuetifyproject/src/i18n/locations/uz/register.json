@@ -1,0 +1,60 @@
+{
+    "title": "Ro'yxatdan o'tish",
+    "email": {
+        "label": "Elektron pochta/Telefon raqam",
+        "place-holder": "example{'@'}gmail.com/+998YYXXXXXXX",
+        "validation":{
+            "required": "To'ldirilishi shart",
+            "email-or-phone": "Elektron pochta  yoki telefon raqamingizni kiriting"
+        }
+    },
+    "password": {
+        "label":"Parol",
+        "place-holder":"Parolingizni kiriting",
+        "validation": {
+            "required": "To'ldirilishi shart",
+            "min-length":"Parol 8 ta belgidan kam bo'lmasligi kerak",
+            "max-length":"Parol 50 belgidan oshmasligi kerak",
+            "lower-case": "Parol kamida 1 ta kichik harfdan iborat bo'lishi kerak",
+            "upper-case": "Parol kamida 1 bosh harfdan iborat bo'lishi kerak",
+            "digit": "Parol kamida 1 ta raqamdan iborat bo'lishi kerak",
+            "symbol": "Parolda @$!%*?& 1 ta belgi boʻlishi kerak",
+            "strong-pass": "Parolda @$!%*?& dan boshqa belgilar boʻlmasligi kerak."
+        }
+    },
+    "first-name": {
+        "label": "Ism",
+        "place-holder": "Ismingizni kiriting",
+        "validation": {
+            "required": "To'ldirilishi shart",
+            "min-length": "2 ta belgidan ko`p bo`lishi kerak",
+            "max-length": "50 ta belgidan oshmasligi kerak"
+        }
+    },
+    "last-name": {
+        "label": "Familiya",
+        "place-holder": "Familiyangizni kiriting",
+        "validation": {
+            "required": "To'ldirilishi shart",
+            "min-length": "2 ta belgidan ko`p bo`lishi kerak",
+            "max-length": "50 ta belgidan oshmasligi kerak"
+        }
+    },
+    "surname": {
+        "label": "Sharif",
+        "place-holder": "Sharifingizni kiriting",
+        "validation": {
+            "required": "To'ldirilishi shart",
+            "min-length": "2 ta belgidan ko`p bo`lishi kerak",
+            "max-length": "50 ta belgidan oshmasligi kerak"
+        }
+    },
+    "retry-password": {
+        "label": "Parolni tasdiqlash",
+        "place-holder": "Parolni qaytadan kiriting",
+        "validation": "Parol bir xil emas"
+    },
+    "submit-btn": "Saqlash",
+    "label-have-account": "Hisobingiz bormi?",
+    "login-btn": "Kirish"
+}

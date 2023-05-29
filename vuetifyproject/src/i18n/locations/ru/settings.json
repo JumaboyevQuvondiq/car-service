@@ -1,0 +1,9 @@
+{
+    "title": "Настройки",
+    "lb-name": "Имя фамилия",
+    "lb-password":"Старый пароль",
+    "pass-placeholder": "Введите ваш пароль",
+    "lb-new-password":"Новый пароль",
+    "new-pass-placeholder": "Введите новый пароль",
+    "submit-btn": "Сохранить" 
+}

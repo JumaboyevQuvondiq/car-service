@@ -1,0 +1,9 @@
+{
+    "title": "Settings",
+    "lb-name": "Full Name",
+    "lb-password":"Old password",
+    "pass-placeholder": "Enter your password",
+    "lb-new-password":"New password",
+    "new-pass-placeholder": "Enter your new password",
+    "submit-btn": "Save" 
+}

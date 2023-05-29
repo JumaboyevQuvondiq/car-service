@@ -1,0 +1,60 @@
+{
+    "title": "Register",
+    "email": {
+        "label": "Email/Phone Number",
+        "place-holder": "example{'@'}gmail.com/+998YYXXXXXXX",
+        "validation":{
+            "required": "Required",
+            "email-or-phone": "Enter email or phone number"
+        }
+    },
+    "password": {
+        "label":"Password",
+        "place-holder":"Enter your password",
+        "validation": {
+            "required": "Required",
+            "min-length":"Must be more than 8 characters",
+            "max-length":"No more than 50 characters",
+            "lower-case": "Password must contain at least 1 lowercase letter",
+            "upper-case": "Password must contain at least 1 capital letter",
+            "digit": "Password must contain at least 1 digit",
+            "symbol": "Password must contain @$!%*?& 1 character",
+            "strong-pass": "Password must not contain characters other than @$!%*?&."
+        }
+    },
+    "first-name": {
+        "label": "First Name",
+        "place-holder": "Enter your first name",
+        "validation": {
+            "required": "Required",
+            "min-length": "Must be more than 2 characters",
+            "max-length": "No more than 50 characters"
+        }
+    },
+    "last-name": {
+        "label": "Last Name",
+        "place-holder": "Enter your last name",
+        "validation": {
+            "required": "Required",
+            "min-length": "Must be more than 2 characters",
+            "max-length": "No more than 50 characters"
+        }
+    },
+    "surname": {
+        "label": "Surname",
+        "place-holder": "Enter your surname",
+        "validation": {
+            "required": "Required",
+            "min-length": "Must be more than 2 characters",
+            "max-length": "No more than 50 characters"
+        }
+    },
+    "retry-password": {
+        "label": "Password again",
+        "place-holder": "Please enter your password again",
+        "validation": "Password does not match"
+    },
+    "submit-btn": "Save",
+    "label-have-account": "Do you have an account?",
+    "login-btn": "Login"
+}
